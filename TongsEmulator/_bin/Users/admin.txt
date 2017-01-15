@@ -1,0 +1,11 @@
+[info]
+pw=adminpass
+state=1
+nick=GM_석
+Level=30
+BlockDate=2099년 12월 31일
+
+## State
+1	정상 유저
+2	경고 유저
+3	블록 유저
